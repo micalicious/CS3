@@ -1,5 +1,7 @@
 9-Samat
+#19 Cai-li Avrencel Bragais
 #20 Denise Micaila P. De Dios                            16/08/2026
+#21 Janine Chrisha Ducos
 
 1.) Pseudocode 1 is faster for larger lists because it only goes through the list once, whereas pseudocode 2 uses a loop inside another loop, making it much slower.
 2.) Pseudocode 1 is easier to understand because it directly keeps track of the current maximum using a variable called max.
