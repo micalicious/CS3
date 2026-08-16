@@ -1,19 +1,19 @@
-9-Samat                                                                           
-#20 / Denise Micaila P. De Dios                                       14/08/2026
+9-Samat
+#19 / Cai-li Avrencel Bragais
+#20 / Denise Micaila P. De Dios 14/08/2026
+#21 / Janine Chrisha Ducos
 
 Step 1: 
-Main Problem: PSHS canteen gets crowded because the ordering and payment process is slow.
+Main Problem: Slow and crowded canteen
 
 Step 2:
 Sub-problems:
-1. Some students take too long to order.
-2. The cashier has to manually calculate the total and the change.
-3. Students cannot easily check which food items are available before order.
+1. students take too long to order food
+2. slow and faulty manual calculation by cashier
+3. no system to track food supply
 
 Step 3:
-CT skill: 
-Sub-Prob1&3: Algorithm Design, create a digital menu showing available food items and prices so students can decide before order and says when a food item is out of stock.
-Sub-Prob2: Automation, create a system that automatically calculates the total and change.
+CT skill to solve all sub-problems is Algorithm Design, design a system that can update the user on the available foods and alert them if the stock for their purchase is low.
 
 Step 4: 
 Pseudocode
